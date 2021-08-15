@@ -8,5 +8,6 @@ python3 docker_setup.py
 -u: update image
 -D: delete image
 
-python3 -m btb_manager_telegram --docker
+docker run -d btbmt
+(python3 -m btb_manager_telegram --docker)
 ```
