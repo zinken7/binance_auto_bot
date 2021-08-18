@@ -10,4 +10,7 @@ python3 docker_setup.py
 
 docker run -d btbmt
 (python3 -m btb_manager_telegram --docker)
+
+docker stop containerID
+docker rm containerID
 ```
