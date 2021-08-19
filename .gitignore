@@ -16,3 +16,4 @@ crypto_trading.db
 supported_coin_list.backup
 user.cfg.backup
 .DS_Store
+autogitpush.sh
